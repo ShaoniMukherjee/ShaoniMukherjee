@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shaoni Mukherjee</h1>
 <h3 align="center">A passionate data driven professional with 2+years of hands on experience in Data Science, Machine Learning.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 - 🔭 I’m currently working on [Creating end to end projects on Data Science to build my portfolio](https://github.com/ShaoniMukherjee/Live_Project)
 
 - 🌱 I’m currently learning **almost everything :D**
