@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **almost everything :D**
 
-- 👯 I’m looking to collaborate on **any project which will provide me experience**
+- 👯 I’m looking to collaborate on **any project which will provide both of us experience and learning**
 
 - 🤝 I’m looking for help with **web development and project deployement :(**
 
