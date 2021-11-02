@@ -27,3 +27,9 @@ A student and a self-paced learner who loves to do research and learn new things
 
 <img align="left" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" data-canonical-src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="max-width:100%;">
 <img src="https://github-readme-stats.vercel.app/api?username=ShaoniMukherjee&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+---
+
+<p align="center"> THANK YOU FOR YOUR VISIT </p>
+
+<p align="center"> HAVE A GREAT TIME! </p>
