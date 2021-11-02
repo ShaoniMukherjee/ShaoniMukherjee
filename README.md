@@ -19,6 +19,7 @@ A student and a self-paced learner who loves to do research and learn new things
 
 - ⚡ Fun fact **I love to cook and code**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShaoniMukherjee)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="left">Languages and Tools:</h3>
