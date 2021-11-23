@@ -12,8 +12,6 @@ A student and a self-paced learner who loves to do research and learn new things
 
 - 🤝 I’m looking for help with **web development and project deployement :(**
 
-- 📝 I regularly write articles [still biulding my website]
-
 - 💬 Ask me about **anything. I would love to help you out**
 
 - 📫 How to reach me **https://www.linkedin.com/in/shaoni-mukherjee-8076a913a/**
