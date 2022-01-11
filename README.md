@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data driven professional with 2+years of hands on experience in Data Science, Machine Learning.</h3>
 A student and a self-paced learner who loves to do research and learn new things every day. Committed to successful project rollouts with the ability to work with all types of personalities. Proud team player.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rahulsrma26/rahulsrma26/master/img/wave.gif">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/rahulsrma26/rahulsrma26/master/img/wave.gif">
 
 - 🔭 I’m currently working on [Creating end to end projects on Data Science to build my portfolio](https://github.com/ShaoniMukherjee/Live_Project)
 
