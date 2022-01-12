@@ -30,7 +30,7 @@ A student and a self-paced learner who loves to do research and learn new things
 ---
 
 <p align="center">
-  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
+  <img width="300" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
 </p>
 
 <p align="center"> HAVE A GREAT TIME! </p>
