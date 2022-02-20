@@ -22,6 +22,9 @@ A student and a self-paced learner who loves to do research and learn new things
 ## My Tech
 #### Popular Tech
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruch798&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShaoniMukherjee)](https://github.com/ryo-ma/github-profile-trophy)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
