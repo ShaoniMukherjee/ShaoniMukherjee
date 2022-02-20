@@ -1,22 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shaoni Mukherjee</h1>
-<h3 align="center">A passionate data driven professional with 2+years of hands on experience in Data Science, Machine Learning.</h3>
-A student and a self-paced learner who loves to do research and learn new things every day. Committed to successful project rollouts with the ability to work with all types of personalities. Proud team player.
+<h2 align="center">Hi there 👋</h2>
 
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/rahulsrma26/rahulsrma26/master/img/wave.gif">
+---
+I'm Shaoni Mukherjee, Master's from Liverpool John Moores's University (2020-2021).
 
-- 🔭 I’m currently working on [Creating end to end projects on Data Science to build my portfolio](https://github.com/ShaoniMukherjee/Live_Project)
+Having started coding at an age of 24 and also having completed my Master’s, I can say my interest in this field has only grown with time. I gravitate more towards Data Science and Data Analysis. Currently I work as data Scientist at portcast. Further, I like creating content regarding data science and analytics. Working in the technology sector of various MNCs has helped me gain relevant experience in the industry. As businesses today are becoming more inclined with information technology, I strive to gain more knowledge and expertise in the field to update myself and gain relevant business experience.       
 
-- 🌱 I’m currently learning **almost everything :D**
+My key interest lies solely in sharing my technical expertise with people. I enjoy tackling problems pertaining to technology and coming up with novel ideas. I am also a great listener and an artist. Keen intrest in book and collecting research papers.
 
-- 👯 I’m looking to collaborate on **any project which will provide both of us experience and learning**
-
-- 🤝 I’m looking for help with **web development and project deployement :(**
-
-- 💬 Ask me about **anything. I would love to help you out**
-
-- 📫 How to reach me **https://www.linkedin.com/in/shaoni-mukherjee-8076a913a/**
-
-- ⚡ Fun fact **I love to cook and code**
+---
 
 
 ## My Tech
