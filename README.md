@@ -14,7 +14,8 @@ My key interest lies solely in sharing my technical expertise with people. I enj
 #### Popular Tech
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruch798&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaoni)]
+ />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShaoniMukherjee)](https://github.com/ryo-ma/github-profile-trophy)
